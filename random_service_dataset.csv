@@ -1,0 +1,1001 @@
+ID,Title,Description,Base Price,Availability,Owner,Total Reviews,Average Stars,Plus Achetés
+1,Cloud Migration,Affordable and reliable,574,True,Provider B,27,2.3,15
+2,Consulting,High-quality service,545,False,Provider A,3,1.6,38
+3,SEO Optimization,Affordable and reliable,899,True,Provider C,763,4.2,453
+4,SEO Optimization,Expert-led service,445,False,Provider C,791,1.2,288
+5,Web Design,High-quality service,303,False,Provider A,559,1.3,73
+6,Customer Support,Expert-led service,757,False,Provider C,852,2.2,420
+7,SEO Optimization,Affordable and reliable,131,True,Provider C,250,1.2,328
+8,Cloud Migration,Comprehensive and efficient,771,False,Provider A,19,5.0,88
+9,Marketing Strategy,High-quality service,184,False,Provider C,35,3.8,315
+10,Data Analysis,Comprehensive and efficient,190,False,Provider B,96,3.1,441
+11,Web Design,Expert-led service,139,True,Provider C,196,4.2,68
+12,Cybersecurity Assessment,Expert-led service,857,False,Provider A,1,3.6,364
+13,Mobile App Development,High-quality service,278,True,Provider A,668,1.7,466
+14,Mobile App Development,Expert-led service,686,False,Provider A,49,1.9,361
+15,Software Development,High-quality service,394,False,Provider B,495,4.5,381
+16,Cybersecurity Assessment,Expert-led service,680,True,Provider C,727,2.3,310
+17,Web Design,Comprehensive and efficient,479,True,Provider A,501,2.8,412
+18,Web Design,Top-rated by clients,651,False,Provider A,900,2.6,293
+19,Mobile App Development,Affordable and reliable,227,False,Provider A,765,1.2,485
+20,Software Development,Affordable and reliable,307,False,Provider C,993,3.8,210
+21,Cloud Migration,Top-rated by clients,113,True,Provider C,12,3.2,162
+22,Customer Support,Top-rated by clients,263,True,Provider C,625,3.7,425
+23,Mobile App Development,High-quality service,586,True,Provider C,729,2.1,366
+24,Customer Support,Expert-led service,991,False,Provider C,157,2.6,425
+25,Data Analysis,Comprehensive and efficient,495,True,Provider C,297,1.8,212
+26,SEO Optimization,Affordable and reliable,459,True,Provider A,202,2.7,288
+27,Consulting,Top-rated by clients,431,False,Provider B,771,3.6,371
+28,SEO Optimization,Top-rated by clients,922,False,Provider A,463,4.8,87
+29,Cloud Migration,Top-rated by clients,520,True,Provider B,572,3.7,4
+30,Consulting,Expert-led service,182,False,Provider A,779,3.1,365
+31,Marketing Strategy,Comprehensive and efficient,303,True,Provider A,389,2.7,1
+32,SEO Optimization,Top-rated by clients,791,False,Provider B,714,1.4,289
+33,Mobile App Development,Comprehensive and efficient,262,True,Provider A,366,2.9,390
+34,Software Development,Affordable and reliable,180,True,Provider B,128,1.6,233
+35,SEO Optimization,High-quality service,640,True,Provider B,91,3.3,264
+36,SEO Optimization,High-quality service,493,True,Provider B,620,3.9,198
+37,SEO Optimization,Affordable and reliable,969,False,Provider A,254,4.8,144
+38,Web Design,High-quality service,108,False,Provider C,265,2.2,110
+39,Consulting,Top-rated by clients,245,False,Provider A,294,2.6,473
+40,Software Development,Expert-led service,852,False,Provider A,227,1.7,235
+41,Customer Support,High-quality service,336,False,Provider B,759,4.5,76
+42,Customer Support,Affordable and reliable,320,True,Provider B,103,4.3,449
+43,Consulting,Expert-led service,765,True,Provider C,860,4.1,251
+44,Data Analysis,Affordable and reliable,450,False,Provider B,753,1.2,290
+45,Web Design,Top-rated by clients,223,True,Provider C,443,3.2,419
+46,SEO Optimization,Affordable and reliable,201,False,Provider A,955,1.9,33
+47,Marketing Strategy,Top-rated by clients,799,False,Provider B,946,1.5,319
+48,Web Design,High-quality service,479,False,Provider A,246,4.1,303
+49,Marketing Strategy,Expert-led service,159,True,Provider C,276,1.8,185
+50,Consulting,Comprehensive and efficient,286,False,Provider C,804,3.0,323
+51,Consulting,Expert-led service,374,False,Provider C,421,3.1,313
+52,Data Analysis,Comprehensive and efficient,624,False,Provider A,637,1.9,32
+53,Cloud Migration,High-quality service,997,False,Provider C,331,3.0,81
+54,Cloud Migration,Affordable and reliable,383,False,Provider C,306,1.2,199
+55,Cybersecurity Assessment,Top-rated by clients,622,False,Provider A,659,1.0,11
+56,Mobile App Development,Top-rated by clients,884,True,Provider A,261,4.5,279
+57,Data Analysis,Top-rated by clients,383,False,Provider C,473,2.7,183
+58,Software Development,High-quality service,736,False,Provider B,976,4.6,143
+59,Data Analysis,High-quality service,874,True,Provider C,818,3.0,164
+60,Customer Support,Comprehensive and efficient,612,False,Provider B,991,2.7,181
+61,Mobile App Development,Expert-led service,107,False,Provider A,270,2.2,68
+62,Software Development,Expert-led service,765,True,Provider A,436,1.3,107
+63,Software Development,Affordable and reliable,167,False,Provider A,401,2.2,305
+64,Web Design,Comprehensive and efficient,927,False,Provider A,440,3.4,436
+65,Customer Support,High-quality service,860,False,Provider A,105,4.1,231
+66,Customer Support,High-quality service,472,False,Provider A,716,3.2,363
+67,SEO Optimization,Top-rated by clients,611,False,Provider A,62,4.0,59
+68,Cybersecurity Assessment,Comprehensive and efficient,520,True,Provider B,355,1.6,471
+69,Web Design,Comprehensive and efficient,528,True,Provider C,274,3.3,174
+70,Marketing Strategy,High-quality service,825,True,Provider C,711,4.5,46
+71,Consulting,Comprehensive and efficient,725,False,Provider A,537,1.9,247
+72,SEO Optimization,Top-rated by clients,858,False,Provider A,606,1.9,230
+73,Cloud Migration,Top-rated by clients,611,False,Provider A,222,4.0,378
+74,Customer Support,High-quality service,300,True,Provider C,579,4.2,465
+75,Data Analysis,High-quality service,723,False,Provider B,204,2.0,354
+76,Data Analysis,Comprehensive and efficient,266,True,Provider B,47,2.3,149
+77,Cybersecurity Assessment,Comprehensive and efficient,776,False,Provider B,169,3.5,424
+78,Data Analysis,Expert-led service,168,False,Provider C,722,2.6,99
+79,Data Analysis,Comprehensive and efficient,191,False,Provider B,168,3.5,171
+80,SEO Optimization,Comprehensive and efficient,881,False,Provider A,512,3.0,446
+81,Data Analysis,Affordable and reliable,753,True,Provider A,778,4.1,311
+82,Data Analysis,High-quality service,428,False,Provider C,364,4.4,353
+83,Mobile App Development,Comprehensive and efficient,746,False,Provider B,283,4.5,98
+84,Data Analysis,Affordable and reliable,450,False,Provider C,789,3.4,498
+85,SEO Optimization,Comprehensive and efficient,240,False,Provider C,954,3.5,305
+86,Web Design,High-quality service,710,False,Provider B,965,2.8,178
+87,Cloud Migration,Expert-led service,999,False,Provider B,619,1.1,480
+88,Cloud Migration,Top-rated by clients,332,False,Provider A,323,2.2,342
+89,Consulting,High-quality service,628,True,Provider B,53,1.3,129
+90,Software Development,High-quality service,361,True,Provider B,808,2.8,23
+91,Cloud Migration,Affordable and reliable,652,True,Provider A,852,4.4,64
+92,Customer Support,Affordable and reliable,539,True,Provider A,448,3.4,338
+93,SEO Optimization,Affordable and reliable,793,True,Provider A,373,3.7,449
+94,Consulting,Expert-led service,378,False,Provider A,648,1.8,294
+95,Cloud Migration,Affordable and reliable,457,True,Provider B,544,2.0,125
+96,Consulting,High-quality service,635,False,Provider C,97,1.7,46
+97,Software Development,Affordable and reliable,351,False,Provider C,197,4.4,48
+98,Marketing Strategy,Comprehensive and efficient,990,True,Provider C,156,2.1,9
+99,Data Analysis,Comprehensive and efficient,847,True,Provider A,153,3.2,433
+100,Marketing Strategy,Top-rated by clients,287,True,Provider B,824,1.6,42
+101,Consulting,Comprehensive and efficient,134,False,Provider C,649,1.5,418
+102,SEO Optimization,Top-rated by clients,490,False,Provider B,557,2.4,248
+103,Marketing Strategy,Comprehensive and efficient,444,True,Provider B,822,2.3,86
+104,Consulting,Expert-led service,688,False,Provider A,731,2.3,102
+105,Web Design,Top-rated by clients,117,False,Provider A,551,3.4,97
+106,Cloud Migration,Comprehensive and efficient,707,False,Provider B,156,2.3,465
+107,Customer Support,Top-rated by clients,660,False,Provider B,227,4.1,18
+108,Consulting,Top-rated by clients,905,True,Provider B,44,1.4,27
+109,Marketing Strategy,Comprehensive and efficient,100,True,Provider B,973,2.3,262
+110,Web Design,High-quality service,558,True,Provider B,752,3.7,428
+111,Marketing Strategy,Affordable and reliable,725,False,Provider B,521,3.4,407
+112,Customer Support,Top-rated by clients,976,False,Provider A,681,1.5,197
+113,Marketing Strategy,Top-rated by clients,104,False,Provider B,633,2.8,313
+114,SEO Optimization,Top-rated by clients,707,False,Provider B,494,2.2,74
+115,SEO Optimization,Affordable and reliable,739,False,Provider C,289,3.5,214
+116,Marketing Strategy,Top-rated by clients,622,True,Provider C,449,1.5,300
+117,SEO Optimization,Top-rated by clients,897,True,Provider C,722,3.7,406
+118,Data Analysis,Comprehensive and efficient,965,True,Provider A,717,2.9,320
+119,Software Development,High-quality service,973,False,Provider B,529,2.1,441
+120,Marketing Strategy,Expert-led service,340,False,Provider A,118,4.0,154
+121,Customer Support,Expert-led service,625,True,Provider B,761,1.8,400
+122,Software Development,Affordable and reliable,375,False,Provider A,332,1.6,418
+123,Data Analysis,Expert-led service,141,False,Provider A,592,1.1,115
+124,Cybersecurity Assessment,High-quality service,304,False,Provider A,221,4.4,473
+125,Mobile App Development,Expert-led service,528,False,Provider A,564,3.0,198
+126,Marketing Strategy,High-quality service,151,False,Provider C,449,3.1,319
+127,SEO Optimization,High-quality service,207,False,Provider A,879,1.5,199
+128,Consulting,Comprehensive and efficient,244,True,Provider A,733,1.4,184
+129,Consulting,Expert-led service,604,True,Provider B,933,2.3,142
+130,Cybersecurity Assessment,Top-rated by clients,854,False,Provider B,61,3.1,476
+131,Consulting,Affordable and reliable,626,True,Provider C,531,3.8,269
+132,Cybersecurity Assessment,Top-rated by clients,776,False,Provider A,722,3.0,131
+133,SEO Optimization,Expert-led service,214,False,Provider B,154,4.3,85
+134,SEO Optimization,Expert-led service,232,False,Provider A,553,2.5,63
+135,Mobile App Development,Top-rated by clients,403,False,Provider A,922,1.1,247
+136,Mobile App Development,Comprehensive and efficient,996,False,Provider A,773,2.7,257
+137,Mobile App Development,Expert-led service,917,False,Provider B,907,1.3,20
+138,Marketing Strategy,Comprehensive and efficient,354,False,Provider B,98,2.3,164
+139,SEO Optimization,Affordable and reliable,559,False,Provider A,87,4.9,343
+140,Marketing Strategy,Expert-led service,912,True,Provider A,226,4.4,20
+141,Consulting,Top-rated by clients,681,True,Provider A,367,1.9,250
+142,Mobile App Development,Comprehensive and efficient,460,True,Provider B,211,2.5,124
+143,Mobile App Development,Affordable and reliable,594,True,Provider A,676,2.7,386
+144,SEO Optimization,High-quality service,884,False,Provider C,753,4.1,31
+145,Mobile App Development,Affordable and reliable,372,True,Provider A,597,1.1,238
+146,Marketing Strategy,Comprehensive and efficient,878,True,Provider C,902,1.2,484
+147,Mobile App Development,Expert-led service,617,True,Provider B,315,1.5,445
+148,Data Analysis,Expert-led service,679,True,Provider A,612,3.5,205
+149,SEO Optimization,High-quality service,266,False,Provider B,432,2.7,372
+150,Consulting,Comprehensive and efficient,374,False,Provider C,462,4.4,244
+151,Data Analysis,Expert-led service,194,True,Provider B,489,2.1,192
+152,SEO Optimization,Expert-led service,564,False,Provider B,104,3.0,26
+153,Cybersecurity Assessment,Comprehensive and efficient,899,False,Provider B,415,3.8,306
+154,Customer Support,Affordable and reliable,526,True,Provider A,396,3.2,18
+155,Mobile App Development,Top-rated by clients,147,False,Provider B,9,2.3,337
+156,Consulting,Affordable and reliable,377,True,Provider C,122,1.6,272
+157,Mobile App Development,Comprehensive and efficient,155,False,Provider A,27,3.2,282
+158,Cloud Migration,Affordable and reliable,430,True,Provider C,105,1.6,80
+159,Customer Support,Expert-led service,208,False,Provider C,96,4.8,314
+160,Consulting,Comprehensive and efficient,131,True,Provider A,987,3.2,425
+161,Customer Support,Expert-led service,695,True,Provider B,563,1.7,284
+162,Cybersecurity Assessment,Expert-led service,166,True,Provider B,230,3.9,267
+163,Cloud Migration,Expert-led service,247,False,Provider B,20,1.4,265
+164,SEO Optimization,Affordable and reliable,259,True,Provider B,440,4.1,242
+165,Software Development,Top-rated by clients,982,False,Provider B,253,2.8,217
+166,Mobile App Development,High-quality service,887,False,Provider C,800,1.5,149
+167,Consulting,Top-rated by clients,907,False,Provider C,967,1.1,237
+168,Data Analysis,High-quality service,673,False,Provider A,948,5.0,208
+169,Customer Support,Comprehensive and efficient,709,False,Provider B,294,2.1,223
+170,Cybersecurity Assessment,Top-rated by clients,344,False,Provider B,652,4.8,180
+171,Cloud Migration,High-quality service,848,True,Provider B,336,3.0,346
+172,Web Design,Expert-led service,538,True,Provider C,941,3.0,485
+173,Mobile App Development,Comprehensive and efficient,834,True,Provider A,310,1.4,57
+174,Mobile App Development,Top-rated by clients,222,False,Provider B,133,4.8,255
+175,Customer Support,Affordable and reliable,587,False,Provider A,484,3.9,138
+176,Marketing Strategy,Comprehensive and efficient,290,False,Provider C,243,3.1,367
+177,Mobile App Development,Expert-led service,304,True,Provider B,914,1.5,352
+178,Cybersecurity Assessment,Expert-led service,180,False,Provider C,493,1.7,164
+179,Cybersecurity Assessment,Expert-led service,610,False,Provider B,538,2.7,458
+180,Customer Support,High-quality service,234,True,Provider A,951,2.4,394
+181,Software Development,Top-rated by clients,552,False,Provider B,379,3.2,273
+182,Cybersecurity Assessment,Comprehensive and efficient,913,False,Provider B,589,1.3,104
+183,Mobile App Development,Top-rated by clients,606,True,Provider C,769,1.2,270
+184,Mobile App Development,Top-rated by clients,770,False,Provider A,865,3.0,482
+185,SEO Optimization,High-quality service,688,True,Provider A,967,1.1,369
+186,Marketing Strategy,High-quality service,991,False,Provider B,740,1.2,41
+187,SEO Optimization,Expert-led service,793,False,Provider C,426,2.5,354
+188,Cybersecurity Assessment,Top-rated by clients,517,True,Provider B,361,1.2,112
+189,SEO Optimization,High-quality service,702,False,Provider C,84,2.5,438
+190,Cybersecurity Assessment,Expert-led service,502,True,Provider B,636,2.0,108
+191,Cloud Migration,Comprehensive and efficient,234,False,Provider B,100,1.8,430
+192,Web Design,High-quality service,732,False,Provider C,350,2.6,404
+193,Consulting,High-quality service,230,True,Provider B,491,1.5,379
+194,Mobile App Development,Comprehensive and efficient,254,False,Provider A,728,2.4,141
+195,Data Analysis,Comprehensive and efficient,338,False,Provider A,794,2.7,10
+196,Cybersecurity Assessment,High-quality service,381,True,Provider C,213,4.3,42
+197,Cloud Migration,Comprehensive and efficient,625,True,Provider C,892,4.7,273
+198,Mobile App Development,Comprehensive and efficient,831,False,Provider B,429,2.2,36
+199,Marketing Strategy,Expert-led service,674,False,Provider B,329,2.2,326
+200,SEO Optimization,High-quality service,157,False,Provider A,39,3.3,486
+201,Customer Support,Comprehensive and efficient,393,True,Provider C,471,1.5,418
+202,Web Design,Expert-led service,505,False,Provider C,232,2.4,36
+203,Cloud Migration,High-quality service,207,False,Provider A,307,1.2,454
+204,SEO Optimization,High-quality service,604,True,Provider C,656,2.5,475
+205,Data Analysis,High-quality service,937,True,Provider B,512,1.5,94
+206,Cloud Migration,Comprehensive and efficient,917,True,Provider C,901,3.2,306
+207,SEO Optimization,Comprehensive and efficient,125,True,Provider C,716,3.6,289
+208,SEO Optimization,Top-rated by clients,368,True,Provider B,283,4.9,252
+209,Web Design,Expert-led service,664,False,Provider B,76,1.8,431
+210,Customer Support,Top-rated by clients,938,False,Provider A,795,1.8,333
+211,Customer Support,Expert-led service,865,False,Provider A,973,4.8,420
+212,Customer Support,Affordable and reliable,173,True,Provider A,797,4.5,108
+213,Web Design,Top-rated by clients,684,False,Provider C,897,3.5,302
+214,SEO Optimization,High-quality service,574,True,Provider B,326,4.4,261
+215,Marketing Strategy,Affordable and reliable,244,False,Provider C,58,1.8,380
+216,SEO Optimization,Affordable and reliable,451,False,Provider B,487,4.5,491
+217,Customer Support,Affordable and reliable,962,True,Provider B,526,4.5,262
+218,Web Design,Expert-led service,866,False,Provider C,791,2.0,426
+219,Web Design,Comprehensive and efficient,329,True,Provider C,764,3.0,346
+220,Cloud Migration,Comprehensive and efficient,394,True,Provider C,252,4.7,346
+221,Software Development,Affordable and reliable,276,False,Provider B,985,3.7,183
+222,Marketing Strategy,Comprehensive and efficient,800,True,Provider B,318,3.6,54
+223,Marketing Strategy,High-quality service,618,False,Provider C,603,3.2,4
+224,Mobile App Development,Comprehensive and efficient,731,False,Provider B,575,2.1,45
+225,Software Development,Expert-led service,613,True,Provider B,646,4.9,28
+226,Cloud Migration,Affordable and reliable,467,False,Provider C,851,2.8,346
+227,Mobile App Development,Top-rated by clients,291,False,Provider B,813,2.2,301
+228,Data Analysis,High-quality service,293,True,Provider A,367,3.9,434
+229,Consulting,Top-rated by clients,737,False,Provider C,221,3.4,170
+230,Marketing Strategy,Affordable and reliable,377,False,Provider A,580,2.4,467
+231,Cloud Migration,Affordable and reliable,914,False,Provider A,24,2.2,459
+232,Cloud Migration,Top-rated by clients,868,True,Provider A,906,1.9,444
+233,Consulting,Affordable and reliable,826,True,Provider A,436,1.3,91
+234,Mobile App Development,Affordable and reliable,264,False,Provider A,518,3.5,85
+235,Software Development,Affordable and reliable,766,True,Provider A,219,3.0,225
+236,Software Development,Comprehensive and efficient,760,False,Provider C,546,1.9,13
+237,Consulting,Comprehensive and efficient,440,True,Provider C,130,1.2,338
+238,SEO Optimization,Expert-led service,331,True,Provider B,64,1.1,94
+239,Mobile App Development,Top-rated by clients,646,False,Provider C,481,4.0,330
+240,Mobile App Development,High-quality service,341,False,Provider A,85,1.8,454
+241,Data Analysis,Top-rated by clients,978,False,Provider C,506,2.1,195
+242,Data Analysis,Top-rated by clients,161,True,Provider A,702,1.1,194
+243,Consulting,Expert-led service,767,True,Provider A,496,1.6,185
+244,Customer Support,Comprehensive and efficient,840,False,Provider C,348,4.5,100
+245,SEO Optimization,High-quality service,685,True,Provider A,747,2.0,276
+246,Web Design,High-quality service,428,True,Provider A,205,4.8,232
+247,SEO Optimization,Expert-led service,664,False,Provider A,288,1.7,149
+248,Marketing Strategy,Affordable and reliable,696,True,Provider A,238,2.0,128
+249,Software Development,Top-rated by clients,418,True,Provider A,476,4.5,294
+250,Software Development,Top-rated by clients,148,True,Provider C,955,2.7,268
+251,Marketing Strategy,High-quality service,543,True,Provider A,388,2.1,147
+252,Software Development,Top-rated by clients,399,True,Provider C,244,3.8,120
+253,Data Analysis,High-quality service,753,True,Provider C,597,1.2,291
+254,Marketing Strategy,Comprehensive and efficient,604,False,Provider C,395,4.6,55
+255,Cloud Migration,Comprehensive and efficient,467,False,Provider C,180,4.4,154
+256,Cloud Migration,High-quality service,877,True,Provider C,74,1.3,83
+257,Cloud Migration,Expert-led service,255,True,Provider A,966,4.2,363
+258,Marketing Strategy,Top-rated by clients,702,False,Provider C,142,4.8,172
+259,Cloud Migration,High-quality service,646,False,Provider C,317,3.0,430
+260,Web Design,Expert-led service,938,True,Provider B,617,3.3,433
+261,Web Design,Comprehensive and efficient,525,False,Provider C,850,3.7,138
+262,Cybersecurity Assessment,Top-rated by clients,137,False,Provider C,443,2.1,245
+263,Software Development,Top-rated by clients,106,True,Provider B,302,3.6,28
+264,Cybersecurity Assessment,Comprehensive and efficient,414,False,Provider C,154,2.9,280
+265,Web Design,Affordable and reliable,697,False,Provider A,900,2.6,258
+266,Marketing Strategy,High-quality service,103,True,Provider C,449,4.6,439
+267,SEO Optimization,Expert-led service,175,True,Provider B,759,4.2,404
+268,Software Development,Expert-led service,846,True,Provider C,719,4.7,379
+269,Customer Support,Affordable and reliable,367,True,Provider A,245,4.3,263
+270,Cloud Migration,Expert-led service,513,True,Provider C,783,1.2,29
+271,Customer Support,Expert-led service,178,False,Provider A,216,3.4,93
+272,Customer Support,Top-rated by clients,823,True,Provider A,967,3.8,478
+273,Marketing Strategy,High-quality service,382,True,Provider B,272,3.7,96
+274,Consulting,Top-rated by clients,463,False,Provider B,518,2.1,337
+275,Customer Support,Comprehensive and efficient,867,False,Provider A,823,2.7,306
+276,Software Development,Top-rated by clients,180,True,Provider C,513,1.2,358
+277,Customer Support,Affordable and reliable,263,True,Provider B,744,1.4,112
+278,Consulting,High-quality service,664,True,Provider B,712,3.2,104
+279,Cybersecurity Assessment,Affordable and reliable,692,False,Provider A,958,3.3,101
+280,Consulting,High-quality service,494,True,Provider B,338,1.8,172
+281,Data Analysis,High-quality service,288,True,Provider C,801,2.8,32
+282,Mobile App Development,High-quality service,199,True,Provider B,59,2.9,66
+283,Data Analysis,Expert-led service,739,False,Provider C,542,1.0,251
+284,SEO Optimization,Top-rated by clients,254,True,Provider A,928,1.6,409
+285,SEO Optimization,Expert-led service,663,True,Provider A,464,3.5,35
+286,Mobile App Development,Expert-led service,435,True,Provider B,716,5.0,382
+287,Mobile App Development,Top-rated by clients,383,True,Provider B,416,3.6,101
+288,Web Design,Affordable and reliable,232,False,Provider A,275,1.5,299
+289,Consulting,High-quality service,458,False,Provider B,108,4.3,204
+290,SEO Optimization,Affordable and reliable,825,False,Provider B,103,2.7,220
+291,Mobile App Development,Affordable and reliable,203,True,Provider C,471,1.3,242
+292,Web Design,Comprehensive and efficient,341,False,Provider B,328,3.4,480
+293,Web Design,Expert-led service,537,True,Provider A,757,1.9,169
+294,Software Development,High-quality service,891,True,Provider A,484,2.7,257
+295,Mobile App Development,Top-rated by clients,463,True,Provider A,703,2.3,196
+296,Data Analysis,Affordable and reliable,719,True,Provider C,532,3.6,323
+297,Web Design,Comprehensive and efficient,634,True,Provider B,326,2.7,67
+298,Consulting,Comprehensive and efficient,448,True,Provider C,690,1.4,302
+299,Data Analysis,Affordable and reliable,143,True,Provider A,193,1.9,210
+300,Customer Support,Affordable and reliable,106,True,Provider A,492,3.0,269
+301,Consulting,Comprehensive and efficient,305,True,Provider A,386,4.2,360
+302,Cybersecurity Assessment,Expert-led service,245,False,Provider A,819,1.0,490
+303,Data Analysis,Comprehensive and efficient,524,True,Provider C,694,3.4,344
+304,Marketing Strategy,Comprehensive and efficient,737,False,Provider A,573,1.5,263
+305,Data Analysis,Comprehensive and efficient,578,False,Provider C,571,3.4,87
+306,Cybersecurity Assessment,Expert-led service,552,True,Provider B,975,4.3,317
+307,SEO Optimization,Expert-led service,886,False,Provider B,885,1.9,128
+308,SEO Optimization,Expert-led service,852,False,Provider B,698,3.0,52
+309,Web Design,Top-rated by clients,230,False,Provider C,659,4.1,57
+310,Mobile App Development,Top-rated by clients,127,False,Provider B,170,1.7,207
+311,Cloud Migration,Top-rated by clients,492,True,Provider B,775,1.6,430
+312,Consulting,Top-rated by clients,847,True,Provider A,229,4.6,321
+313,Mobile App Development,High-quality service,307,True,Provider A,172,3.8,125
+314,Cloud Migration,High-quality service,663,True,Provider C,754,3.9,405
+315,Data Analysis,High-quality service,315,True,Provider C,929,4.4,293
+316,Web Design,Affordable and reliable,931,True,Provider B,844,3.2,97
+317,Data Analysis,High-quality service,258,False,Provider A,216,3.0,229
+318,Software Development,Affordable and reliable,625,True,Provider A,636,3.2,19
+319,SEO Optimization,Comprehensive and efficient,960,True,Provider B,793,3.9,435
+320,SEO Optimization,High-quality service,854,False,Provider B,51,2.6,420
+321,Customer Support,Expert-led service,274,True,Provider B,393,1.4,282
+322,Marketing Strategy,Top-rated by clients,273,False,Provider C,118,1.5,351
+323,Cloud Migration,Affordable and reliable,709,False,Provider C,596,4.9,480
+324,Marketing Strategy,Comprehensive and efficient,360,False,Provider A,259,1.2,188
+325,SEO Optimization,High-quality service,984,True,Provider A,499,3.8,16
+326,Cloud Migration,Top-rated by clients,750,True,Provider A,29,4.8,217
+327,Web Design,Expert-led service,472,True,Provider C,39,1.5,279
+328,Marketing Strategy,Comprehensive and efficient,163,True,Provider A,249,3.9,323
+329,Web Design,Expert-led service,374,False,Provider A,431,2.2,24
+330,Software Development,High-quality service,584,True,Provider A,812,1.9,162
+331,Cybersecurity Assessment,Affordable and reliable,300,True,Provider C,866,4.4,374
+332,Cloud Migration,Comprehensive and efficient,219,True,Provider C,885,4.6,363
+333,Consulting,High-quality service,414,False,Provider B,14,2.4,373
+334,Consulting,High-quality service,813,False,Provider A,302,3.5,457
+335,SEO Optimization,Affordable and reliable,850,False,Provider C,546,1.7,106
+336,Software Development,Affordable and reliable,497,True,Provider A,779,4.2,432
+337,Customer Support,High-quality service,624,False,Provider C,884,4.5,316
+338,Customer Support,Affordable and reliable,769,False,Provider B,856,2.3,366
+339,Cybersecurity Assessment,Comprehensive and efficient,690,True,Provider C,894,3.6,441
+340,Cybersecurity Assessment,Affordable and reliable,460,False,Provider C,846,4.5,464
+341,Web Design,Comprehensive and efficient,177,False,Provider A,372,1.1,20
+342,Mobile App Development,High-quality service,749,False,Provider A,495,4.4,79
+343,Mobile App Development,Top-rated by clients,800,True,Provider A,799,3.3,295
+344,Web Design,High-quality service,688,True,Provider C,65,2.7,38
+345,Consulting,High-quality service,329,False,Provider A,364,3.1,292
+346,Mobile App Development,High-quality service,769,True,Provider A,200,4.3,268
+347,Cybersecurity Assessment,Comprehensive and efficient,209,False,Provider B,324,3.9,359
+348,Mobile App Development,Top-rated by clients,175,False,Provider A,639,3.0,157
+349,Customer Support,Affordable and reliable,592,True,Provider A,367,3.0,228
+350,Mobile App Development,Expert-led service,981,True,Provider C,129,4.6,299
+351,SEO Optimization,Comprehensive and efficient,927,False,Provider B,864,1.9,224
+352,Cybersecurity Assessment,High-quality service,755,True,Provider A,393,1.4,174
+353,Software Development,High-quality service,538,True,Provider A,324,3.7,210
+354,Web Design,Expert-led service,772,False,Provider C,524,3.8,42
+355,Data Analysis,Affordable and reliable,592,False,Provider A,408,3.3,335
+356,Customer Support,Top-rated by clients,354,True,Provider A,533,2.1,41
+357,Marketing Strategy,High-quality service,820,False,Provider A,770,2.2,115
+358,Consulting,Expert-led service,471,False,Provider B,711,3.5,420
+359,Mobile App Development,High-quality service,720,True,Provider B,239,2.1,191
+360,Marketing Strategy,Expert-led service,214,False,Provider B,325,3.0,422
+361,Web Design,Affordable and reliable,469,False,Provider A,171,2.3,224
+362,Mobile App Development,Expert-led service,111,True,Provider C,356,3.0,56
+363,Data Analysis,High-quality service,371,True,Provider C,125,1.9,291
+364,Data Analysis,Comprehensive and efficient,381,False,Provider A,240,1.8,239
+365,Software Development,Affordable and reliable,889,True,Provider C,279,3.9,288
+366,Web Design,Expert-led service,250,True,Provider C,159,2.5,468
+367,Cybersecurity Assessment,Comprehensive and efficient,862,True,Provider C,39,1.9,404
+368,Customer Support,Top-rated by clients,959,True,Provider B,332,4.4,314
+369,Data Analysis,Top-rated by clients,208,True,Provider C,821,2.6,102
+370,Software Development,Expert-led service,556,True,Provider B,867,1.5,24
+371,Cloud Migration,Affordable and reliable,959,False,Provider A,504,3.8,77
+372,Customer Support,High-quality service,576,False,Provider A,708,2.1,239
+373,Web Design,Top-rated by clients,843,True,Provider C,370,3.3,81
+374,Software Development,Comprehensive and efficient,719,True,Provider B,491,3.5,354
+375,SEO Optimization,Comprehensive and efficient,203,False,Provider B,193,4.9,440
+376,Cloud Migration,Comprehensive and efficient,199,True,Provider A,7,1.8,31
+377,Web Design,Top-rated by clients,514,False,Provider B,546,2.1,92
+378,SEO Optimization,Expert-led service,856,True,Provider A,286,4.7,231
+379,Cybersecurity Assessment,Top-rated by clients,858,False,Provider C,342,3.9,388
+380,Cybersecurity Assessment,Affordable and reliable,493,True,Provider B,15,2.8,343
+381,Web Design,Affordable and reliable,986,True,Provider A,821,3.9,386
+382,Customer Support,Expert-led service,920,True,Provider B,599,2.7,15
+383,Software Development,Comprehensive and efficient,399,False,Provider A,92,2.6,412
+384,Customer Support,Top-rated by clients,949,True,Provider C,196,1.6,129
+385,Cybersecurity Assessment,Expert-led service,500,False,Provider B,882,3.1,236
+386,Consulting,High-quality service,164,True,Provider B,863,2.1,10
+387,SEO Optimization,Affordable and reliable,894,True,Provider B,104,3.5,292
+388,Mobile App Development,High-quality service,235,True,Provider B,431,2.6,335
+389,Data Analysis,High-quality service,538,True,Provider A,344,4.4,33
+390,Software Development,Top-rated by clients,950,False,Provider C,25,4.1,187
+391,Data Analysis,Expert-led service,431,True,Provider C,236,1.6,155
+392,Cloud Migration,High-quality service,413,True,Provider A,398,3.4,269
+393,Consulting,High-quality service,798,True,Provider C,417,3.9,309
+394,SEO Optimization,Comprehensive and efficient,369,False,Provider B,33,3.1,442
+395,Software Development,Comprehensive and efficient,332,False,Provider C,243,1.5,174
+396,Data Analysis,High-quality service,886,True,Provider B,375,3.0,335
+397,Data Analysis,Top-rated by clients,245,False,Provider B,498,2.7,20
+398,Data Analysis,High-quality service,270,True,Provider B,794,2.3,94
+399,Consulting,Affordable and reliable,400,True,Provider B,842,3.3,375
+400,Consulting,Expert-led service,326,True,Provider A,358,2.3,380
+401,Mobile App Development,Top-rated by clients,815,True,Provider C,365,1.9,338
+402,Data Analysis,Comprehensive and efficient,955,False,Provider B,658,3.9,71
+403,Cybersecurity Assessment,Expert-led service,938,True,Provider B,664,1.9,240
+404,Customer Support,Affordable and reliable,306,False,Provider A,292,4.2,162
+405,SEO Optimization,Top-rated by clients,658,False,Provider C,378,4.9,206
+406,SEO Optimization,Top-rated by clients,666,False,Provider A,804,2.8,215
+407,Marketing Strategy,Top-rated by clients,790,True,Provider B,675,4.2,300
+408,Software Development,Comprehensive and efficient,143,False,Provider B,85,1.7,257
+409,Marketing Strategy,Expert-led service,677,False,Provider C,454,4.2,58
+410,Software Development,Affordable and reliable,457,True,Provider A,789,4.8,151
+411,SEO Optimization,High-quality service,362,False,Provider C,775,3.1,239
+412,Data Analysis,High-quality service,221,True,Provider B,905,2.0,271
+413,Software Development,High-quality service,275,True,Provider A,769,1.6,357
+414,Software Development,Expert-led service,272,False,Provider B,830,4.7,70
+415,Consulting,Top-rated by clients,877,True,Provider C,749,2.3,267
+416,Web Design,Affordable and reliable,615,False,Provider B,602,3.0,68
+417,Mobile App Development,Comprehensive and efficient,493,False,Provider A,359,2.7,5
+418,Data Analysis,Top-rated by clients,223,False,Provider B,72,2.7,181
+419,SEO Optimization,Comprehensive and efficient,856,False,Provider C,458,4.1,61
+420,Cloud Migration,Top-rated by clients,607,False,Provider B,379,4.7,309
+421,Cybersecurity Assessment,High-quality service,134,False,Provider B,775,3.5,448
+422,SEO Optimization,Top-rated by clients,578,True,Provider C,222,4.8,223
+423,Marketing Strategy,High-quality service,613,True,Provider C,454,1.8,390
+424,Customer Support,High-quality service,394,True,Provider B,933,3.3,12
+425,Mobile App Development,Affordable and reliable,306,True,Provider C,670,3.7,61
+426,Software Development,Affordable and reliable,962,False,Provider A,104,3.9,142
+427,Data Analysis,Comprehensive and efficient,534,True,Provider B,532,4.0,141
+428,Consulting,Comprehensive and efficient,241,False,Provider C,560,2.3,392
+429,Mobile App Development,Expert-led service,954,False,Provider B,407,4.5,313
+430,SEO Optimization,Expert-led service,146,False,Provider A,68,1.5,390
+431,Customer Support,Comprehensive and efficient,955,True,Provider A,136,2.1,314
+432,Cloud Migration,Affordable and reliable,905,False,Provider C,569,2.9,395
+433,Cloud Migration,High-quality service,961,False,Provider B,94,3.4,415
+434,Software Development,Expert-led service,849,True,Provider A,213,2.2,388
+435,Web Design,Affordable and reliable,846,True,Provider A,841,4.6,227
+436,Mobile App Development,High-quality service,446,True,Provider B,659,2.8,379
+437,Cybersecurity Assessment,Expert-led service,182,True,Provider A,407,1.4,318
+438,Data Analysis,Affordable and reliable,618,False,Provider A,151,4.3,130
+439,Web Design,Comprehensive and efficient,686,False,Provider A,470,4.9,300
+440,SEO Optimization,Affordable and reliable,527,True,Provider A,559,2.4,401
+441,Cloud Migration,Expert-led service,613,True,Provider A,296,3.2,424
+442,SEO Optimization,High-quality service,557,False,Provider C,569,3.3,402
+443,Cybersecurity Assessment,Expert-led service,574,True,Provider A,163,4.2,53
+444,Data Analysis,Top-rated by clients,276,True,Provider A,573,1.6,495
+445,Web Design,Comprehensive and efficient,947,False,Provider B,611,4.4,437
+446,SEO Optimization,Top-rated by clients,501,False,Provider B,465,3.9,123
+447,Consulting,Expert-led service,375,True,Provider C,910,1.1,369
+448,Cloud Migration,Expert-led service,354,True,Provider C,541,3.3,8
+449,Customer Support,Affordable and reliable,247,False,Provider A,249,1.1,147
+450,SEO Optimization,Affordable and reliable,933,True,Provider B,572,3.0,406
+451,Web Design,Top-rated by clients,511,False,Provider A,14,3.4,151
+452,Cloud Migration,Affordable and reliable,840,False,Provider B,418,3.5,287
+453,Cloud Migration,Affordable and reliable,365,True,Provider C,635,4.7,325
+454,Mobile App Development,Top-rated by clients,845,False,Provider A,667,2.2,352
+455,Consulting,Affordable and reliable,113,False,Provider A,78,4.4,388
+456,Mobile App Development,Top-rated by clients,537,True,Provider C,954,2.8,178
+457,SEO Optimization,High-quality service,426,False,Provider B,126,3.7,241
+458,Cybersecurity Assessment,Top-rated by clients,878,True,Provider C,587,4.2,138
+459,Customer Support,Affordable and reliable,221,True,Provider A,507,3.9,138
+460,SEO Optimization,Comprehensive and efficient,399,False,Provider B,600,4.2,163
+461,Marketing Strategy,Comprehensive and efficient,713,True,Provider A,214,3.5,231
+462,Web Design,Top-rated by clients,489,False,Provider C,604,4.2,248
+463,Consulting,Comprehensive and efficient,268,True,Provider B,494,4.6,351
+464,SEO Optimization,Comprehensive and efficient,344,False,Provider A,568,4.6,77
+465,Consulting,Affordable and reliable,883,False,Provider B,509,2.3,433
+466,SEO Optimization,High-quality service,114,True,Provider B,86,4.9,434
+467,Cybersecurity Assessment,High-quality service,569,True,Provider B,736,1.2,137
+468,Software Development,Affordable and reliable,100,True,Provider B,487,3.5,384
+469,Customer Support,High-quality service,391,True,Provider C,467,3.0,239
+470,Marketing Strategy,Top-rated by clients,709,False,Provider A,604,1.9,25
+471,Customer Support,High-quality service,498,False,Provider A,766,3.1,165
+472,Data Analysis,Comprehensive and efficient,874,True,Provider A,475,1.3,120
+473,Customer Support,Affordable and reliable,700,False,Provider C,280,3.2,266
+474,Software Development,Expert-led service,602,False,Provider A,200,4.4,7
+475,SEO Optimization,Comprehensive and efficient,103,False,Provider B,910,1.6,265
+476,Marketing Strategy,Comprehensive and efficient,424,True,Provider A,789,2.3,249
+477,Data Analysis,Top-rated by clients,201,False,Provider B,479,3.5,82
+478,Customer Support,Expert-led service,588,False,Provider B,292,2.4,330
+479,Web Design,Top-rated by clients,963,False,Provider B,971,2.7,442
+480,Data Analysis,Affordable and reliable,726,True,Provider C,420,2.4,379
+481,Customer Support,Expert-led service,679,True,Provider A,710,2.9,130
+482,Data Analysis,Affordable and reliable,902,True,Provider C,806,2.5,165
+483,Software Development,High-quality service,525,True,Provider B,407,1.6,1
+484,Marketing Strategy,Comprehensive and efficient,881,False,Provider A,674,1.8,59
+485,Web Design,High-quality service,995,True,Provider C,19,1.3,298
+486,Marketing Strategy,Affordable and reliable,213,False,Provider C,897,2.9,207
+487,SEO Optimization,Top-rated by clients,501,False,Provider B,288,4.4,55
+488,Customer Support,Comprehensive and efficient,462,True,Provider B,493,1.4,476
+489,Web Design,Comprehensive and efficient,780,False,Provider B,799,3.6,27
+490,Cybersecurity Assessment,Expert-led service,593,True,Provider A,174,2.7,163
+491,Cybersecurity Assessment,High-quality service,906,True,Provider C,131,4.5,198
+492,Marketing Strategy,Affordable and reliable,654,True,Provider B,150,2.5,127
+493,SEO Optimization,Affordable and reliable,423,False,Provider C,787,3.8,8
+494,Cybersecurity Assessment,Affordable and reliable,383,False,Provider B,337,2.6,243
+495,Consulting,Affordable and reliable,755,False,Provider C,612,3.2,211
+496,Mobile App Development,Top-rated by clients,854,False,Provider B,781,4.1,249
+497,Consulting,Affordable and reliable,584,True,Provider C,841,4.9,400
+498,Web Design,Top-rated by clients,846,False,Provider A,381,1.5,158
+499,Cybersecurity Assessment,Top-rated by clients,715,False,Provider A,987,3.1,231
+500,Cloud Migration,Expert-led service,790,True,Provider A,701,1.5,209
+501,Customer Support,Expert-led service,144,True,Provider B,100,1.1,318
+502,Cybersecurity Assessment,High-quality service,440,False,Provider B,906,4.0,51
+503,Cloud Migration,Affordable and reliable,664,True,Provider C,32,4.9,260
+504,Marketing Strategy,Top-rated by clients,815,True,Provider C,237,3.4,178
+505,Web Design,Expert-led service,272,False,Provider A,50,1.3,454
+506,Software Development,Affordable and reliable,181,True,Provider B,320,1.2,486
+507,Customer Support,Expert-led service,745,True,Provider B,108,2.3,91
+508,Marketing Strategy,Expert-led service,695,False,Provider B,816,2.5,163
+509,Marketing Strategy,High-quality service,811,True,Provider B,897,1.0,354
+510,Cloud Migration,Top-rated by clients,355,False,Provider A,942,4.4,217
+511,Cybersecurity Assessment,Top-rated by clients,936,False,Provider B,893,2.9,438
+512,Data Analysis,Expert-led service,707,False,Provider B,823,5.0,299
+513,Marketing Strategy,Affordable and reliable,449,False,Provider A,981,4.5,163
+514,Marketing Strategy,Top-rated by clients,206,False,Provider A,733,3.0,203
+515,Software Development,High-quality service,854,False,Provider C,807,3.5,323
+516,Consulting,Top-rated by clients,703,False,Provider A,37,2.3,66
+517,Customer Support,High-quality service,260,True,Provider C,415,2.2,449
+518,Consulting,Affordable and reliable,591,False,Provider A,34,1.5,428
+519,Marketing Strategy,Expert-led service,310,False,Provider A,100,3.2,268
+520,Mobile App Development,Affordable and reliable,513,True,Provider B,106,1.3,375
+521,SEO Optimization,Affordable and reliable,464,True,Provider B,631,2.8,328
+522,Consulting,High-quality service,749,False,Provider A,383,2.3,420
+523,Mobile App Development,Affordable and reliable,154,False,Provider B,539,4.2,146
+524,Mobile App Development,Expert-led service,125,True,Provider C,815,2.5,361
+525,Software Development,Top-rated by clients,261,False,Provider A,19,4.6,457
+526,Consulting,High-quality service,629,False,Provider C,729,1.8,38
+527,Cloud Migration,High-quality service,597,False,Provider A,345,4.7,289
+528,Mobile App Development,Affordable and reliable,531,False,Provider A,463,3.4,194
+529,Marketing Strategy,Affordable and reliable,628,True,Provider A,221,1.5,106
+530,SEO Optimization,Affordable and reliable,661,False,Provider A,499,3.0,5
+531,Cloud Migration,Comprehensive and efficient,162,False,Provider A,554,2.1,239
+532,SEO Optimization,Expert-led service,939,True,Provider B,276,4.0,210
+533,Mobile App Development,Affordable and reliable,962,True,Provider C,771,3.6,477
+534,Cybersecurity Assessment,Comprehensive and efficient,186,True,Provider A,299,1.3,444
+535,Data Analysis,High-quality service,607,True,Provider B,562,2.7,352
+536,Cybersecurity Assessment,Expert-led service,265,True,Provider A,251,4.5,210
+537,SEO Optimization,Comprehensive and efficient,365,True,Provider A,670,2.6,165
+538,Cybersecurity Assessment,High-quality service,752,True,Provider C,450,4.0,449
+539,Marketing Strategy,Top-rated by clients,188,False,Provider A,790,1.5,238
+540,Cybersecurity Assessment,Top-rated by clients,481,True,Provider C,887,4.5,84
+541,Cloud Migration,Expert-led service,473,True,Provider A,722,3.0,282
+542,Cloud Migration,Comprehensive and efficient,506,True,Provider B,504,4.8,30
+543,Customer Support,Comprehensive and efficient,284,False,Provider A,858,3.1,256
+544,Data Analysis,High-quality service,690,True,Provider B,79,4.1,264
+545,Cybersecurity Assessment,Top-rated by clients,657,False,Provider B,890,4.9,91
+546,Cloud Migration,Top-rated by clients,901,True,Provider B,87,3.9,391
+547,Software Development,Affordable and reliable,802,True,Provider B,208,3.3,160
+548,SEO Optimization,Comprehensive and efficient,616,False,Provider A,755,2.5,444
+549,SEO Optimization,Expert-led service,937,False,Provider A,467,1.2,494
+550,Mobile App Development,Top-rated by clients,737,True,Provider B,396,2.7,68
+551,Customer Support,Expert-led service,176,True,Provider B,311,2.6,261
+552,Cloud Migration,Expert-led service,781,True,Provider C,281,4.3,258
+553,Cloud Migration,Affordable and reliable,496,True,Provider A,838,1.8,77
+554,Cybersecurity Assessment,Top-rated by clients,868,False,Provider C,236,4.0,137
+555,Consulting,Expert-led service,809,False,Provider B,519,1.2,320
+556,Customer Support,Top-rated by clients,250,True,Provider C,574,4.5,290
+557,Web Design,Affordable and reliable,845,True,Provider C,42,3.7,162
+558,Cloud Migration,High-quality service,453,True,Provider B,189,2.7,376
+559,Software Development,High-quality service,789,True,Provider C,108,2.1,30
+560,Cloud Migration,High-quality service,727,False,Provider C,688,1.7,414
+561,Cybersecurity Assessment,Expert-led service,933,False,Provider A,397,3.3,215
+562,Cybersecurity Assessment,Expert-led service,494,True,Provider B,653,2.6,320
+563,Mobile App Development,Expert-led service,298,True,Provider A,302,4.0,410
+564,Web Design,Top-rated by clients,222,True,Provider A,550,4.6,94
+565,Cloud Migration,Comprehensive and efficient,116,True,Provider B,339,2.2,57
+566,SEO Optimization,Top-rated by clients,811,False,Provider C,458,3.6,196
+567,Marketing Strategy,High-quality service,511,False,Provider B,201,2.7,363
+568,Customer Support,Comprehensive and efficient,394,True,Provider B,310,1.2,348
+569,Customer Support,Affordable and reliable,207,True,Provider B,553,3.5,297
+570,SEO Optimization,Comprehensive and efficient,184,False,Provider B,905,2.5,245
+571,Marketing Strategy,Affordable and reliable,525,True,Provider C,257,1.1,109
+572,Cloud Migration,Expert-led service,822,True,Provider A,289,2.9,270
+573,Data Analysis,High-quality service,727,False,Provider C,397,1.4,91
+574,Software Development,Expert-led service,554,True,Provider A,245,3.5,173
+575,Cloud Migration,Top-rated by clients,774,True,Provider B,21,3.1,25
+576,Mobile App Development,Expert-led service,213,False,Provider C,250,3.0,355
+577,SEO Optimization,Expert-led service,814,False,Provider B,502,4.7,177
+578,Cloud Migration,Comprehensive and efficient,867,True,Provider B,371,4.5,154
+579,Mobile App Development,Affordable and reliable,459,True,Provider B,784,3.9,189
+580,Data Analysis,High-quality service,908,True,Provider C,792,3.3,422
+581,Software Development,Expert-led service,140,True,Provider B,447,2.0,32
+582,Web Design,Expert-led service,194,True,Provider A,55,1.0,16
+583,Mobile App Development,Affordable and reliable,264,True,Provider B,365,1.5,215
+584,Software Development,Top-rated by clients,198,False,Provider C,978,2.3,482
+585,Marketing Strategy,Top-rated by clients,671,True,Provider C,344,1.8,140
+586,Software Development,Comprehensive and efficient,701,True,Provider B,10,3.3,487
+587,Software Development,Affordable and reliable,796,False,Provider A,622,3.1,487
+588,Web Design,Expert-led service,227,True,Provider B,483,2.6,146
+589,Cloud Migration,Top-rated by clients,387,True,Provider C,481,4.2,285
+590,Consulting,Top-rated by clients,916,False,Provider B,874,3.9,300
+591,Data Analysis,High-quality service,226,True,Provider B,583,3.8,128
+592,Software Development,High-quality service,487,True,Provider C,476,3.0,277
+593,Software Development,Comprehensive and efficient,420,True,Provider C,676,1.2,365
+594,Cybersecurity Assessment,Top-rated by clients,649,False,Provider C,724,2.7,37
+595,Cybersecurity Assessment,Top-rated by clients,603,False,Provider C,935,3.0,265
+596,Consulting,Affordable and reliable,779,True,Provider A,322,2.8,304
+597,Marketing Strategy,High-quality service,112,False,Provider B,290,1.0,262
+598,SEO Optimization,High-quality service,952,True,Provider C,614,3.6,31
+599,Web Design,Top-rated by clients,559,False,Provider C,354,2.0,189
+600,Customer Support,Comprehensive and efficient,432,True,Provider B,930,1.2,436
+601,Marketing Strategy,Top-rated by clients,732,True,Provider A,132,3.0,176
+602,Data Analysis,Expert-led service,470,False,Provider C,855,4.7,308
+603,Customer Support,High-quality service,413,False,Provider C,358,1.1,3
+604,Consulting,High-quality service,249,False,Provider A,123,1.1,213
+605,Cybersecurity Assessment,Affordable and reliable,976,False,Provider A,691,3.4,345
+606,Customer Support,Comprehensive and efficient,624,False,Provider C,930,3.2,493
+607,Marketing Strategy,Affordable and reliable,757,True,Provider C,516,1.1,398
+608,Data Analysis,High-quality service,523,False,Provider C,334,1.4,191
+609,Web Design,Comprehensive and efficient,723,False,Provider B,419,4.3,340
+610,SEO Optimization,Top-rated by clients,769,False,Provider C,848,2.8,34
+611,Consulting,Top-rated by clients,539,False,Provider A,940,1.5,295
+612,Cloud Migration,Comprehensive and efficient,549,True,Provider A,482,1.6,477
+613,Data Analysis,Expert-led service,393,True,Provider A,31,3.4,81
+614,Consulting,Top-rated by clients,612,False,Provider C,938,2.3,276
+615,Marketing Strategy,Affordable and reliable,891,False,Provider C,925,1.1,165
+616,SEO Optimization,Top-rated by clients,236,True,Provider A,650,3.5,272
+617,Software Development,Top-rated by clients,568,True,Provider B,780,1.1,166
+618,Web Design,Expert-led service,153,True,Provider C,154,1.4,119
+619,Software Development,Top-rated by clients,310,True,Provider A,753,1.6,359
+620,SEO Optimization,Affordable and reliable,436,True,Provider B,253,1.6,267
+621,Data Analysis,Affordable and reliable,881,True,Provider A,314,4.0,234
+622,Software Development,Affordable and reliable,492,False,Provider C,586,1.4,308
+623,Web Design,High-quality service,490,False,Provider B,509,1.6,148
+624,Data Analysis,Top-rated by clients,511,False,Provider B,319,2.8,182
+625,Consulting,Top-rated by clients,265,True,Provider C,97,1.6,426
+626,Marketing Strategy,Comprehensive and efficient,519,False,Provider C,918,4.0,379
+627,Web Design,Expert-led service,652,False,Provider C,997,3.0,491
+628,Data Analysis,High-quality service,766,False,Provider B,204,4.5,266
+629,Consulting,Top-rated by clients,450,True,Provider A,676,1.2,462
+630,Marketing Strategy,Affordable and reliable,541,True,Provider A,185,4.4,74
+631,Cybersecurity Assessment,High-quality service,401,True,Provider A,890,1.6,158
+632,Customer Support,High-quality service,948,False,Provider C,429,4.7,66
+633,Marketing Strategy,Affordable and reliable,414,True,Provider C,707,2.3,380
+634,Data Analysis,Comprehensive and efficient,251,False,Provider A,97,3.0,374
+635,Customer Support,Top-rated by clients,866,False,Provider C,93,1.1,312
+636,Customer Support,Expert-led service,342,False,Provider C,613,3.9,84
+637,Cloud Migration,Comprehensive and efficient,846,True,Provider A,761,1.9,97
+638,Data Analysis,Expert-led service,564,True,Provider A,587,4.7,419
+639,Data Analysis,Expert-led service,345,False,Provider C,356,3.6,59
+640,Customer Support,Top-rated by clients,993,False,Provider B,286,2.1,159
+641,Mobile App Development,High-quality service,630,False,Provider C,190,2.0,438
+642,Software Development,Affordable and reliable,586,False,Provider B,492,1.7,293
+643,Cloud Migration,Expert-led service,993,True,Provider B,42,4.2,411
+644,Web Design,Comprehensive and efficient,956,True,Provider B,984,2.8,169
+645,Consulting,Top-rated by clients,851,False,Provider B,934,2.1,129
+646,Software Development,Top-rated by clients,932,True,Provider B,704,4.8,402
+647,SEO Optimization,Comprehensive and efficient,487,False,Provider C,158,4.2,315
+648,Customer Support,Expert-led service,275,True,Provider A,354,3.3,480
+649,Marketing Strategy,Expert-led service,546,False,Provider B,254,4.2,472
+650,Mobile App Development,Expert-led service,453,False,Provider B,36,1.5,33
+651,Marketing Strategy,Comprehensive and efficient,124,False,Provider B,747,3.7,18
+652,Data Analysis,Expert-led service,822,False,Provider C,209,2.3,456
+653,Mobile App Development,Comprehensive and efficient,908,True,Provider A,85,3.8,264
+654,Marketing Strategy,Top-rated by clients,237,True,Provider B,34,4.8,375
+655,Customer Support,Comprehensive and efficient,428,False,Provider B,644,4.1,438
+656,Mobile App Development,Affordable and reliable,299,True,Provider C,352,3.3,145
+657,Web Design,High-quality service,576,False,Provider B,238,4.0,128
+658,Mobile App Development,High-quality service,397,True,Provider A,101,2.9,363
+659,Marketing Strategy,Affordable and reliable,887,False,Provider A,969,2.1,31
+660,SEO Optimization,Comprehensive and efficient,826,True,Provider B,345,1.2,287
+661,SEO Optimization,High-quality service,423,False,Provider C,703,3.7,419
+662,Cybersecurity Assessment,Affordable and reliable,227,False,Provider A,538,1.6,410
+663,Consulting,Expert-led service,731,False,Provider C,858,2.8,339
+664,SEO Optimization,Affordable and reliable,934,False,Provider A,294,3.7,202
+665,Cybersecurity Assessment,High-quality service,827,False,Provider A,715,4.6,467
+666,SEO Optimization,Comprehensive and efficient,335,True,Provider B,225,3.4,149
+667,Customer Support,Comprehensive and efficient,124,True,Provider A,708,1.9,186
+668,Cybersecurity Assessment,Comprehensive and efficient,696,False,Provider B,640,2.9,205
+669,SEO Optimization,High-quality service,775,False,Provider A,704,3.7,272
+670,Marketing Strategy,Expert-led service,990,True,Provider A,726,1.8,214
+671,Marketing Strategy,Comprehensive and efficient,530,False,Provider A,590,3.9,171
+672,Marketing Strategy,Top-rated by clients,644,False,Provider B,97,4.1,167
+673,Cybersecurity Assessment,Expert-led service,902,False,Provider A,619,3.1,406
+674,Data Analysis,Affordable and reliable,654,False,Provider A,6,4.4,140
+675,Cybersecurity Assessment,Top-rated by clients,960,False,Provider C,278,1.9,243
+676,Consulting,Expert-led service,137,True,Provider C,169,3.2,326
+677,Data Analysis,High-quality service,328,False,Provider A,142,4.6,86
+678,Customer Support,Top-rated by clients,950,True,Provider B,28,3.8,119
+679,Marketing Strategy,Expert-led service,155,False,Provider C,547,4.2,471
+680,Software Development,Expert-led service,974,True,Provider B,385,1.9,108
+681,Cybersecurity Assessment,Expert-led service,647,False,Provider A,568,3.3,475
+682,Software Development,Expert-led service,455,True,Provider C,762,2.3,402
+683,Web Design,Comprehensive and efficient,165,True,Provider B,45,3.6,457
+684,Cloud Migration,Top-rated by clients,449,True,Provider B,744,3.1,274
+685,Cybersecurity Assessment,Expert-led service,760,False,Provider C,177,3.5,150
+686,Software Development,Affordable and reliable,329,True,Provider A,368,3.5,308
+687,Cybersecurity Assessment,Expert-led service,455,True,Provider A,308,3.9,259
+688,Cybersecurity Assessment,Comprehensive and efficient,914,True,Provider C,828,4.2,59
+689,Cybersecurity Assessment,Top-rated by clients,454,True,Provider B,530,1.2,496
+690,Cybersecurity Assessment,Top-rated by clients,191,True,Provider C,353,4.8,443
+691,Marketing Strategy,Expert-led service,162,True,Provider C,505,2.6,49
+692,Cloud Migration,Expert-led service,162,False,Provider C,737,1.7,497
+693,Marketing Strategy,Affordable and reliable,597,True,Provider A,780,4.7,42
+694,Marketing Strategy,Top-rated by clients,351,True,Provider A,427,4.1,286
+695,SEO Optimization,Top-rated by clients,690,False,Provider B,711,2.7,218
+696,Marketing Strategy,Top-rated by clients,974,True,Provider C,211,3.4,468
+697,Customer Support,High-quality service,258,False,Provider C,802,1.9,353
+698,SEO Optimization,Top-rated by clients,447,True,Provider C,52,2.7,77
+699,Mobile App Development,Top-rated by clients,151,False,Provider C,437,2.6,50
+700,Cloud Migration,Affordable and reliable,616,True,Provider A,838,4.0,176
+701,Data Analysis,Affordable and reliable,808,True,Provider A,82,2.7,118
+702,Cloud Migration,Comprehensive and efficient,845,False,Provider B,951,4.0,39
+703,Software Development,Affordable and reliable,909,True,Provider B,267,4.2,301
+704,Cloud Migration,Top-rated by clients,359,True,Provider C,205,2.5,82
+705,Mobile App Development,Top-rated by clients,779,False,Provider B,42,2.8,384
+706,Marketing Strategy,Top-rated by clients,592,True,Provider C,466,3.1,158
+707,Customer Support,Affordable and reliable,200,True,Provider A,928,1.0,325
+708,Customer Support,Expert-led service,511,True,Provider A,260,1.8,407
+709,Cloud Migration,High-quality service,753,True,Provider A,745,4.4,207
+710,Cybersecurity Assessment,Comprehensive and efficient,400,True,Provider B,227,4.0,165
+711,Data Analysis,Expert-led service,356,False,Provider C,427,1.3,178
+712,Consulting,High-quality service,942,False,Provider B,863,3.5,465
+713,Mobile App Development,Affordable and reliable,833,False,Provider C,647,1.1,80
+714,Cloud Migration,Comprehensive and efficient,946,False,Provider B,833,3.1,416
+715,Cloud Migration,Comprehensive and efficient,228,False,Provider A,5,1.6,402
+716,Cloud Migration,Affordable and reliable,356,False,Provider B,645,4.4,65
+717,Software Development,Expert-led service,196,False,Provider A,576,3.5,16
+718,Consulting,High-quality service,984,True,Provider C,749,1.3,451
+719,Consulting,Top-rated by clients,879,False,Provider A,449,3.6,350
+720,Consulting,Top-rated by clients,129,False,Provider B,484,4.6,360
+721,Consulting,High-quality service,489,True,Provider C,343,3.9,430
+722,Consulting,Top-rated by clients,169,False,Provider B,991,1.5,187
+723,Web Design,Expert-led service,797,False,Provider B,488,3.7,291
+724,Cybersecurity Assessment,Affordable and reliable,386,True,Provider B,926,3.4,383
+725,SEO Optimization,Top-rated by clients,886,True,Provider A,791,3.5,78
+726,Cloud Migration,Affordable and reliable,718,False,Provider C,88,4.2,435
+727,Data Analysis,Top-rated by clients,116,False,Provider B,306,2.2,124
+728,SEO Optimization,Top-rated by clients,987,True,Provider A,795,2.4,223
+729,Data Analysis,Comprehensive and efficient,437,True,Provider B,119,1.8,452
+730,Cloud Migration,Top-rated by clients,303,True,Provider C,825,2.8,354
+731,Software Development,Comprehensive and efficient,109,True,Provider A,140,2.6,311
+732,SEO Optimization,High-quality service,830,True,Provider B,899,1.3,117
+733,Cybersecurity Assessment,Top-rated by clients,176,True,Provider B,982,2.0,228
+734,Web Design,Top-rated by clients,804,True,Provider A,13,1.5,316
+735,Data Analysis,Top-rated by clients,331,True,Provider C,977,3.2,125
+736,Consulting,Comprehensive and efficient,858,True,Provider C,3,1.7,404
+737,Consulting,Top-rated by clients,945,False,Provider C,92,2.3,5
+738,Web Design,Expert-led service,955,False,Provider A,717,4.3,204
+739,SEO Optimization,High-quality service,733,True,Provider A,118,3.3,179
+740,SEO Optimization,Affordable and reliable,532,False,Provider B,122,3.1,422
+741,Consulting,Affordable and reliable,511,True,Provider A,634,4.8,79
+742,Consulting,Comprehensive and efficient,975,True,Provider B,746,2.7,176
+743,Customer Support,High-quality service,253,True,Provider A,36,4.5,461
+744,Data Analysis,High-quality service,211,False,Provider C,641,3.3,359
+745,Data Analysis,Affordable and reliable,688,True,Provider C,318,2.6,171
+746,Cloud Migration,Comprehensive and efficient,636,True,Provider A,78,2.4,306
+747,Mobile App Development,Expert-led service,873,False,Provider A,512,4.6,29
+748,Mobile App Development,High-quality service,134,False,Provider C,614,3.3,85
+749,Consulting,Affordable and reliable,176,False,Provider C,403,2.0,225
+750,Software Development,Expert-led service,287,False,Provider A,932,3.1,364
+751,Cloud Migration,Expert-led service,655,True,Provider C,523,2.0,391
+752,Customer Support,Expert-led service,927,False,Provider A,276,2.0,125
+753,Customer Support,Top-rated by clients,377,True,Provider A,749,1.5,463
+754,Cybersecurity Assessment,Expert-led service,584,True,Provider A,668,3.8,241
+755,Software Development,Expert-led service,597,False,Provider A,266,4.1,230
+756,Data Analysis,Affordable and reliable,610,False,Provider A,625,2.3,441
+757,Consulting,Comprehensive and efficient,464,True,Provider A,423,2.6,313
+758,Data Analysis,Top-rated by clients,624,False,Provider B,891,4.2,174
+759,Web Design,Affordable and reliable,980,False,Provider A,781,1.1,259
+760,Web Design,Affordable and reliable,198,True,Provider A,752,2.3,437
+761,Web Design,Expert-led service,745,False,Provider B,231,2.2,330
+762,Cybersecurity Assessment,Top-rated by clients,888,False,Provider C,498,3.2,28
+763,Marketing Strategy,Comprehensive and efficient,736,True,Provider A,103,4.6,368
+764,Cybersecurity Assessment,Comprehensive and efficient,771,True,Provider A,70,1.2,350
+765,Consulting,Affordable and reliable,966,False,Provider B,343,4.4,291
+766,Marketing Strategy,Top-rated by clients,379,False,Provider C,63,3.2,390
+767,Web Design,Affordable and reliable,631,True,Provider A,13,3.4,313
+768,Web Design,Affordable and reliable,697,False,Provider A,579,4.8,281
+769,Marketing Strategy,Comprehensive and efficient,915,True,Provider B,60,1.5,171
+770,Cybersecurity Assessment,Comprehensive and efficient,874,False,Provider C,897,2.1,46
+771,Software Development,Affordable and reliable,168,False,Provider C,498,1.9,203
+772,SEO Optimization,Comprehensive and efficient,301,True,Provider C,25,2.9,494
+773,Web Design,Comprehensive and efficient,636,True,Provider C,363,3.3,13
+774,Consulting,Expert-led service,830,False,Provider B,734,3.9,5
+775,Cloud Migration,Expert-led service,575,False,Provider B,477,1.2,247
+776,Data Analysis,High-quality service,372,False,Provider A,993,2.7,226
+777,Cloud Migration,High-quality service,838,False,Provider A,133,4.7,101
+778,Cloud Migration,Affordable and reliable,250,True,Provider B,969,2.9,165
+779,SEO Optimization,Affordable and reliable,225,True,Provider C,403,4.3,94
+780,Mobile App Development,Affordable and reliable,128,False,Provider A,814,1.4,167
+781,Consulting,Affordable and reliable,384,False,Provider A,477,2.2,331
+782,Software Development,Comprehensive and efficient,725,True,Provider C,200,3.9,43
+783,Cloud Migration,High-quality service,969,True,Provider A,585,3.5,292
+784,Data Analysis,Affordable and reliable,701,False,Provider B,913,2.8,355
+785,Software Development,Expert-led service,233,False,Provider B,599,3.7,59
+786,Cloud Migration,Comprehensive and efficient,678,True,Provider A,875,4.1,205
+787,Consulting,High-quality service,519,True,Provider B,80,4.6,22
+788,Cybersecurity Assessment,Comprehensive and efficient,815,True,Provider A,896,2.8,71
+789,Mobile App Development,Top-rated by clients,689,True,Provider A,277,3.6,480
+790,Mobile App Development,Affordable and reliable,796,True,Provider B,561,2.5,141
+791,Cybersecurity Assessment,Expert-led service,579,False,Provider B,470,4.7,299
+792,SEO Optimization,High-quality service,578,False,Provider B,600,2.9,195
+793,Data Analysis,Comprehensive and efficient,361,False,Provider A,482,2.6,436
+794,Data Analysis,High-quality service,129,False,Provider B,323,4.8,152
+795,SEO Optimization,Top-rated by clients,191,False,Provider C,561,1.0,409
+796,Cybersecurity Assessment,Expert-led service,549,True,Provider A,731,2.3,384
+797,Cloud Migration,Comprehensive and efficient,417,True,Provider A,140,4.4,331
+798,Customer Support,Top-rated by clients,588,True,Provider C,153,2.8,242
+799,Mobile App Development,Expert-led service,254,True,Provider C,400,2.4,204
+800,Software Development,Affordable and reliable,384,False,Provider A,880,3.4,55
+801,SEO Optimization,High-quality service,523,False,Provider C,666,2.6,105
+802,Mobile App Development,Top-rated by clients,709,True,Provider B,896,2.3,438
+803,Software Development,High-quality service,205,True,Provider B,902,2.1,453
+804,Cloud Migration,High-quality service,787,False,Provider A,535,2.3,227
+805,Mobile App Development,Top-rated by clients,209,False,Provider A,311,4.7,82
+806,Consulting,Top-rated by clients,477,True,Provider B,820,4.8,69
+807,SEO Optimization,Comprehensive and efficient,360,False,Provider A,163,1.4,155
+808,Web Design,Expert-led service,538,False,Provider B,158,3.9,41
+809,Software Development,Affordable and reliable,484,False,Provider C,141,3.6,264
+810,Web Design,Expert-led service,367,False,Provider C,301,3.5,131
+811,Mobile App Development,Affordable and reliable,279,False,Provider C,827,1.1,99
+812,Consulting,Affordable and reliable,711,True,Provider A,893,2.1,98
+813,Web Design,Comprehensive and efficient,894,True,Provider C,277,4.0,172
+814,Cloud Migration,Expert-led service,627,False,Provider B,320,3.0,469
+815,Customer Support,Top-rated by clients,597,False,Provider B,943,1.1,286
+816,Customer Support,High-quality service,832,True,Provider B,354,3.1,237
+817,Cybersecurity Assessment,Comprehensive and efficient,974,False,Provider B,588,4.4,323
+818,Mobile App Development,Comprehensive and efficient,984,True,Provider B,815,4.5,463
+819,Web Design,Comprehensive and efficient,170,True,Provider C,351,4.6,242
+820,Cloud Migration,Top-rated by clients,860,True,Provider B,111,3.1,372
+821,Customer Support,High-quality service,195,True,Provider C,761,2.9,203
+822,Software Development,Affordable and reliable,102,False,Provider B,268,2.0,205
+823,Consulting,Top-rated by clients,608,True,Provider A,967,4.5,475
+824,Consulting,Expert-led service,373,True,Provider C,864,4.2,303
+825,Cloud Migration,Expert-led service,342,False,Provider A,803,4.5,424
+826,Cybersecurity Assessment,Top-rated by clients,933,True,Provider C,298,1.9,369
+827,SEO Optimization,Comprehensive and efficient,260,True,Provider C,150,1.4,310
+828,Cybersecurity Assessment,Top-rated by clients,325,False,Provider A,715,3.8,15
+829,Software Development,High-quality service,522,True,Provider B,92,4.7,159
+830,Web Design,Affordable and reliable,680,False,Provider B,82,4.7,452
+831,Web Design,Affordable and reliable,962,False,Provider B,487,3.1,207
+832,Consulting,Affordable and reliable,360,False,Provider B,826,3.6,491
+833,Web Design,Affordable and reliable,435,False,Provider C,391,1.4,242
+834,Cybersecurity Assessment,Comprehensive and efficient,227,True,Provider B,908,2.1,406
+835,Consulting,Expert-led service,377,True,Provider C,190,3.2,421
+836,Data Analysis,Expert-led service,989,True,Provider C,369,4.5,70
+837,Marketing Strategy,Top-rated by clients,471,True,Provider C,990,2.9,425
+838,Web Design,Affordable and reliable,202,True,Provider A,462,3.4,242
+839,Cloud Migration,Expert-led service,878,False,Provider A,879,1.2,109
+840,Marketing Strategy,High-quality service,372,False,Provider B,660,4.9,145
+841,Mobile App Development,Top-rated by clients,102,False,Provider C,250,3.0,255
+842,Cloud Migration,Comprehensive and efficient,914,False,Provider B,8,1.6,264
+843,Cybersecurity Assessment,Expert-led service,801,True,Provider A,314,2.4,469
+844,Cybersecurity Assessment,Affordable and reliable,274,False,Provider A,657,3.1,148
+845,Data Analysis,Comprehensive and efficient,210,False,Provider A,839,1.6,259
+846,Software Development,High-quality service,388,True,Provider C,169,1.8,317
+847,Cloud Migration,High-quality service,331,True,Provider A,976,4.7,161
+848,Data Analysis,High-quality service,801,True,Provider A,191,4.5,100
+849,Cloud Migration,Comprehensive and efficient,485,True,Provider B,195,1.5,147
+850,Cloud Migration,Expert-led service,392,False,Provider B,523,2.1,52
+851,Cybersecurity Assessment,Expert-led service,957,True,Provider B,298,3.5,48
+852,SEO Optimization,Affordable and reliable,364,False,Provider B,939,2.0,378
+853,Mobile App Development,Comprehensive and efficient,659,True,Provider A,425,1.0,62
+854,Software Development,Expert-led service,959,False,Provider A,926,3.8,402
+855,Data Analysis,Top-rated by clients,100,False,Provider C,75,1.8,323
+856,Marketing Strategy,Affordable and reliable,263,True,Provider A,331,2.3,183
+857,Customer Support,Expert-led service,126,True,Provider B,672,2.1,266
+858,Web Design,Top-rated by clients,290,False,Provider C,594,1.6,171
+859,Data Analysis,Affordable and reliable,979,False,Provider C,868,1.5,327
+860,Software Development,High-quality service,762,True,Provider A,933,1.6,22
+861,Mobile App Development,High-quality service,771,False,Provider A,485,4.9,434
+862,Marketing Strategy,Top-rated by clients,741,False,Provider C,62,3.9,302
+863,SEO Optimization,High-quality service,961,False,Provider C,850,4.8,264
+864,SEO Optimization,Top-rated by clients,359,False,Provider C,882,3.3,470
+865,Data Analysis,Affordable and reliable,359,True,Provider A,470,2.3,74
+866,Software Development,Expert-led service,454,True,Provider B,924,1.7,112
+867,Cybersecurity Assessment,Affordable and reliable,216,False,Provider C,282,2.9,218
+868,Marketing Strategy,Top-rated by clients,264,False,Provider A,944,3.0,403
+869,Cloud Migration,Comprehensive and efficient,526,True,Provider C,183,4.1,445
+870,Data Analysis,Comprehensive and efficient,466,True,Provider A,457,3.1,200
+871,Customer Support,Top-rated by clients,120,False,Provider A,994,1.8,463
+872,Software Development,High-quality service,333,False,Provider A,763,4.3,261
+873,Cloud Migration,Top-rated by clients,233,False,Provider A,368,1.6,114
+874,Customer Support,Expert-led service,828,True,Provider C,458,3.1,477
+875,Data Analysis,Affordable and reliable,183,True,Provider B,908,1.2,212
+876,Cloud Migration,Top-rated by clients,794,False,Provider C,177,2.5,202
+877,Web Design,Expert-led service,841,True,Provider C,605,3.7,220
+878,Data Analysis,Comprehensive and efficient,359,False,Provider B,785,1.6,149
+879,Data Analysis,Top-rated by clients,951,True,Provider A,241,3.1,451
+880,Marketing Strategy,High-quality service,251,False,Provider B,963,3.2,270
+881,Marketing Strategy,Top-rated by clients,148,False,Provider C,201,4.6,446
+882,Software Development,Comprehensive and efficient,962,False,Provider A,418,2.9,375
+883,SEO Optimization,Expert-led service,770,True,Provider C,636,1.3,225
+884,Consulting,Top-rated by clients,317,False,Provider A,689,1.6,144
+885,Software Development,Top-rated by clients,752,False,Provider C,399,2.1,123
+886,Customer Support,High-quality service,616,False,Provider A,681,4.2,179
+887,Software Development,Top-rated by clients,340,True,Provider C,322,2.0,54
+888,Cybersecurity Assessment,Affordable and reliable,304,True,Provider A,687,3.4,326
+889,Customer Support,Top-rated by clients,723,False,Provider B,224,1.3,205
+890,Mobile App Development,Expert-led service,814,True,Provider C,791,1.8,171
+891,Cybersecurity Assessment,Affordable and reliable,864,True,Provider B,193,3.5,422
+892,SEO Optimization,High-quality service,527,False,Provider A,717,1.4,134
+893,Consulting,Expert-led service,793,False,Provider A,169,3.9,309
+894,Web Design,High-quality service,338,False,Provider B,761,2.8,113
+895,SEO Optimization,Top-rated by clients,750,True,Provider A,512,2.1,61
+896,Marketing Strategy,Top-rated by clients,855,False,Provider A,449,4.5,316
+897,Cloud Migration,Top-rated by clients,143,True,Provider A,989,3.7,287
+898,Customer Support,Comprehensive and efficient,874,False,Provider B,160,1.3,136
+899,Web Design,Comprehensive and efficient,811,False,Provider C,61,3.7,213
+900,SEO Optimization,Comprehensive and efficient,612,True,Provider C,383,1.8,340
+901,Data Analysis,Affordable and reliable,663,True,Provider C,285,4.7,291
+902,Web Design,Comprehensive and efficient,774,False,Provider A,125,1.6,27
+903,Cybersecurity Assessment,Top-rated by clients,964,False,Provider A,505,3.5,296
+904,Web Design,Top-rated by clients,123,False,Provider B,698,2.0,460
+905,SEO Optimization,High-quality service,548,False,Provider B,84,4.8,83
+906,Cybersecurity Assessment,Expert-led service,811,True,Provider B,97,2.3,146
+907,Customer Support,Expert-led service,886,False,Provider B,107,3.4,384
+908,SEO Optimization,Affordable and reliable,900,False,Provider A,300,1.5,193
+909,Web Design,Expert-led service,102,True,Provider B,504,2.9,111
+910,Software Development,Affordable and reliable,778,True,Provider B,581,3.4,190
+911,SEO Optimization,High-quality service,368,False,Provider B,499,4.1,55
+912,Web Design,Top-rated by clients,676,True,Provider C,722,3.2,133
+913,Mobile App Development,Top-rated by clients,994,True,Provider A,94,3.8,465
+914,Mobile App Development,Affordable and reliable,864,True,Provider B,487,4.4,491
+915,Data Analysis,Comprehensive and efficient,172,False,Provider A,539,2.2,57
+916,Cloud Migration,High-quality service,871,False,Provider B,730,2.4,218
+917,SEO Optimization,Top-rated by clients,497,False,Provider C,979,1.1,226
+918,Cybersecurity Assessment,Top-rated by clients,994,True,Provider C,436,3.2,413
+919,Customer Support,High-quality service,231,False,Provider A,853,4.9,379
+920,Cybersecurity Assessment,Affordable and reliable,330,True,Provider B,304,3.9,367
+921,Marketing Strategy,Comprehensive and efficient,554,False,Provider C,826,5.0,227
+922,Customer Support,Affordable and reliable,746,False,Provider B,42,2.8,402
+923,SEO Optimization,High-quality service,504,False,Provider B,456,4.0,136
+924,Cloud Migration,Expert-led service,926,True,Provider C,227,1.6,172
+925,Web Design,Affordable and reliable,102,True,Provider C,413,2.7,193
+926,Customer Support,Expert-led service,275,False,Provider C,673,3.6,306
+927,Consulting,High-quality service,611,False,Provider A,498,2.8,457
+928,Web Design,Expert-led service,792,False,Provider A,487,1.1,469
+929,Software Development,Top-rated by clients,670,True,Provider A,653,2.3,2
+930,Marketing Strategy,Expert-led service,210,True,Provider A,601,3.7,230
+931,Cloud Migration,Comprehensive and efficient,694,False,Provider C,111,2.6,156
+932,Consulting,Comprehensive and efficient,354,False,Provider C,495,2.8,172
+933,Cloud Migration,High-quality service,692,False,Provider C,200,4.4,315
+934,Mobile App Development,Comprehensive and efficient,413,False,Provider B,458,2.1,272
+935,Customer Support,Expert-led service,783,False,Provider C,957,3.5,437
+936,Mobile App Development,Top-rated by clients,389,True,Provider C,296,4.4,10
+937,Marketing Strategy,High-quality service,590,False,Provider C,302,4.2,281
+938,Cloud Migration,Affordable and reliable,169,True,Provider C,162,2.0,457
+939,SEO Optimization,Top-rated by clients,321,True,Provider C,95,1.2,365
+940,Software Development,Affordable and reliable,179,False,Provider A,996,2.1,90
+941,Web Design,High-quality service,189,False,Provider A,61,1.7,243
+942,SEO Optimization,Affordable and reliable,593,False,Provider C,931,1.1,484
+943,Mobile App Development,Top-rated by clients,380,False,Provider B,451,2.2,175
+944,Cloud Migration,Comprehensive and efficient,456,False,Provider B,158,3.1,476
+945,Cloud Migration,High-quality service,800,True,Provider B,889,3.6,355
+946,Software Development,Comprehensive and efficient,989,True,Provider B,168,2.5,46
+947,Customer Support,Comprehensive and efficient,932,False,Provider C,832,1.8,66
+948,Web Design,Comprehensive and efficient,545,True,Provider B,663,3.3,439
+949,Marketing Strategy,Top-rated by clients,177,True,Provider A,740,4.0,201
+950,Software Development,Expert-led service,624,False,Provider B,54,3.8,208
+951,Consulting,Comprehensive and efficient,810,True,Provider B,705,4.4,153
+952,Software Development,Expert-led service,213,True,Provider B,27,2.1,126
+953,Consulting,High-quality service,661,True,Provider B,69,3.0,118
+954,Software Development,Affordable and reliable,231,True,Provider A,502,3.0,9
+955,Software Development,Comprehensive and efficient,215,False,Provider B,44,2.3,402
+956,Cybersecurity Assessment,Expert-led service,789,False,Provider A,432,3.7,122
+957,Mobile App Development,High-quality service,839,False,Provider B,138,1.5,296
+958,Mobile App Development,Top-rated by clients,497,False,Provider A,583,4.2,85
+959,SEO Optimization,High-quality service,175,False,Provider C,926,1.1,7
+960,Marketing Strategy,Top-rated by clients,117,True,Provider A,6,2.6,229
+961,Consulting,Affordable and reliable,168,False,Provider A,514,3.4,303
+962,Web Design,Affordable and reliable,571,True,Provider B,893,2.7,467
+963,Data Analysis,Expert-led service,403,True,Provider A,599,3.6,155
+964,Cybersecurity Assessment,Top-rated by clients,430,False,Provider A,27,1.2,241
+965,Consulting,Top-rated by clients,522,False,Provider A,862,4.5,80
+966,Cloud Migration,Affordable and reliable,728,False,Provider B,646,1.3,8
+967,SEO Optimization,High-quality service,345,False,Provider C,401,2.2,386
+968,SEO Optimization,High-quality service,970,False,Provider C,923,2.2,285
+969,Customer Support,Expert-led service,532,True,Provider B,301,1.0,273
+970,Data Analysis,Affordable and reliable,648,True,Provider C,283,1.4,158
+971,Customer Support,Affordable and reliable,577,True,Provider B,79,4.4,333
+972,Consulting,Comprehensive and efficient,893,False,Provider B,857,4.1,354
+973,Cybersecurity Assessment,Expert-led service,647,True,Provider A,649,4.0,130
+974,Cloud Migration,Affordable and reliable,555,False,Provider B,788,3.8,499
+975,SEO Optimization,Comprehensive and efficient,932,True,Provider C,990,1.3,158
+976,Consulting,Top-rated by clients,108,False,Provider B,888,2.2,175
+977,Consulting,Comprehensive and efficient,874,True,Provider A,316,1.0,95
+978,Software Development,Affordable and reliable,201,False,Provider A,76,1.2,466
+979,Marketing Strategy,High-quality service,491,False,Provider C,175,1.2,370
+980,Consulting,Expert-led service,561,True,Provider C,790,1.8,390
+981,Marketing Strategy,Top-rated by clients,182,True,Provider C,451,1.2,406
+982,Marketing Strategy,High-quality service,476,False,Provider A,190,1.1,390
+983,Customer Support,Expert-led service,629,True,Provider B,58,2.0,89
+984,Cybersecurity Assessment,Top-rated by clients,871,True,Provider B,411,4.2,490
+985,Web Design,Top-rated by clients,226,True,Provider A,54,1.2,400
+986,Mobile App Development,Affordable and reliable,364,True,Provider B,369,4.9,311
+987,Customer Support,Comprehensive and efficient,147,False,Provider B,453,3.6,488
+988,Mobile App Development,High-quality service,655,True,Provider B,122,4.5,492
+989,Marketing Strategy,Comprehensive and efficient,801,False,Provider A,919,3.6,361
+990,Data Analysis,Affordable and reliable,871,True,Provider B,339,4.1,302
+991,Web Design,Affordable and reliable,400,False,Provider C,679,2.2,88
+992,Web Design,High-quality service,175,True,Provider A,450,2.0,48
+993,Cloud Migration,Top-rated by clients,405,True,Provider A,645,3.7,470
+994,Web Design,Expert-led service,150,False,Provider B,126,3.3,43
+995,Marketing Strategy,Top-rated by clients,238,True,Provider C,232,3.0,151
+996,Data Analysis,Comprehensive and efficient,271,True,Provider A,404,1.7,233
+997,Software Development,High-quality service,819,False,Provider B,860,1.9,33
+998,Software Development,Affordable and reliable,202,False,Provider A,392,3.2,458
+999,Software Development,Top-rated by clients,674,False,Provider A,369,2.6,361
+1000,Web Design,High-quality service,583,False,Provider A,374,4.9,221
