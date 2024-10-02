@@ -32,7 +32,7 @@
                     ports:
                       - containerPort: 5005
                 nodeSelector:
-                  kubernetes.io/hostname: worker1
+                  kubernetes.io/hostname: worker2
 
     - name: Create recommendation system service
       k8s:
