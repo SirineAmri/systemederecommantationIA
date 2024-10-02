@@ -27,7 +27,7 @@
               spec:
                 containers:
                   - name: recommendation-container
-                    image: brahim98/recommendation-system:v1.0.1-dev
+                    image: brahim98/recommendation-system:v1.0.2-dev
                     imagePullPolicy: Always
                     ports:
                       - containerPort: 5005
