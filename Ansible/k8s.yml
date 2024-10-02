@@ -1,0 +1,58 @@
+- name: Deploy application on Kubernetes
+  hosts: all
+  gather_facts: false
+  become: yes
+  tasks:
+    - name: recommendation system deployment
+      k8s:
+        kubeconfig: "~/.kube/config"
+        state: present
+        definition:
+          apiVersion: apps/v1
+          kind: Deployment
+          metadata:
+            name: recommendation-deployment
+            namespace: tawasalna
+            labels:
+              app: my-app-recommendation
+          spec:
+            replicas: 1
+            selector:
+              matchLabels:
+                app: my-app-recommendation
+            template:
+              metadata:
+                labels:
+                  app: my-app-recommendation
+              spec:
+                containers:
+                  - name: recommendation-container
+                    image: brahim98/recommendation-system:v1.0.0-dev
+                    imagePullPolicy: Always
+                    ports:
+                      - containerPort: 5005
+                nodeSelector:
+                  kubernetes.io/hostname: worker1
+
+    - name: Create recommendation system service
+      k8s:
+        state: present
+        kubeconfig: "~/.kube/config"
+        verify_ssl: no
+        definition:
+          apiVersion: v1
+          kind: Service
+          metadata:
+            name: recommendation-system-service
+            namespace: tawasalna
+            labels:
+              app: my-app-recommendation
+          spec:
+            selector:
+              app: my-app-recommendation
+            ports:
+              - protocol: TCP
+                port: 8095
+                targetPort: 5005
+                nodePort: 30349
+            type: NodePort
