@@ -52,7 +52,7 @@
               app: my-app-recommendation
             ports:
               - protocol: TCP
-                port: 8095
+                port: 8096
                 targetPort: 5005
                 nodePort: 30349
             type: NodePort
