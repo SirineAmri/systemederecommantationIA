@@ -8,7 +8,7 @@ pipeline{
     agent any
 
     environment {
-              DOCKER_IMAGE_recommendation_system = 'brahim98/recommendation-system:v1.0.0-dev'
+              DOCKER_IMAGE_recommendation_system = 'brahim98/recommendation-system:v1.0.1-dev'
 
   }
      parameters {
