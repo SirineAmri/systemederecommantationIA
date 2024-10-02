@@ -121,7 +121,7 @@ pipeline{
 
          stage('Deployment stage ') {
     steps {
-    dir('ansible') {
+    dir('Ansible') {
 
         sh "sudo ansible-playbook -u root k8s.yml -i inventory/host.yml"
     }
